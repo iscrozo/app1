@@ -2,7 +2,7 @@
 
 Create a new app using flutter </br>
 ### 20200131 v1
-Just to know and to practice topic
+Just to know and to practice topic </br>
 ![imagen](https://user-images.githubusercontent.com/40553244/106401234-fa71e080-63f0-11eb-834f-4daa39e23ba6.png)
 
 
