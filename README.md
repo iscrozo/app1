@@ -1,6 +1,9 @@
 # app1
 
 Create a new app using flutter
+Just to know and to practice topic
+![imagen](https://user-images.githubusercontent.com/40553244/106401234-fa71e080-63f0-11eb-834f-4daa39e23ba6.png)
+
 
 ## Getting Started
 
